@@ -2,9 +2,9 @@
   "name": "Panda-Bot",
   "version": "1.1.6",
   "description": "",
-  "main": "denis.js",
+  "main": "Denis.js",
   "scripts": {
-  "start": "node denis.js"
+  "start": "node Denis.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
