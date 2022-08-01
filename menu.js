@@ -28,8 +28,8 @@ _Bot_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
 *JUEGOS*
 
 _${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
- _${usedPrefix}ppt *<papel / tijera /piedra>*_
-️ _${usedPrefix}prostituto *<nombre / @tag>*_
+_${usedPrefix}ppt *<papel / tijera /piedra>*_
+️_${usedPrefix}prostituto *<nombre / @tag>*_
 _${usedPrefix}prostituta *<nombre / @tag>*_
 _${usedPrefix}gay2 *<nombre / @tag>*_
 _${usedPrefix}lesbiana *<nombre / @tag>*_
@@ -76,7 +76,38 @@ _${usedPrefix}disable *autosticker*_
 _${usedPrefix}enable *antiviewonce*_
 _${usedPrefix}disable *antiviewonce*_
 
+*DESCARGAS*
 
+_${usedPrefix}facebook *<enlace / link / url>*_
+_${usedPrefix}instagram *<enlace / link / url>*_
+_${usedPrefix}mediafire *<enlace / link / url>*_
+_${usedPrefix}instagram *<enlace / link / url>*_
+_${usedPrefix}gitclone *<enlace / link / url>*_
+_${usedPrefix}stickerpack *<enlace / link / url>*_
+_${usedPrefix}gdrive *<enlace / link / url>*_
+_${usedPrefix}tiktok *<enlace / link / url>*_
+_${usedPrefix}xnxxdl *<enlace / link / url>*_
+_${usedPrefix}xvideosdl *<enlace / link / url>*_
+_${usedPrefix}ytmp3 *<enlace / link / url>*_
+_${usedPrefix}ytmp4 *<enlace / link / url>*_
+_${usedPrefix}ytmp3doc *<enlace / link / url>*_
+_${usedPrefix}ytmp4doc *<enlace / link / url>*_
+_${usedPrefix}play.1 *<texto / enlace / link / url>*_
+_${usedPrefix}play.2 *<texto / enlace / link / url>*_
+_${usedPrefix}play *<texto>*_
+_${usedPrefix}playdoc *<texto>*_
+_${usedPrefix}playlist *<texto>*_
+_${usedPrefix}playlist2 *<texto>*_
+_${usedPrefix}ringtone *<texto>*_
+_${usedPrefix}soundcloud *<texto>*_
+_${usedPrefix}imagen *<texto>*_
+_${usedPrefix}pinteret *<texto>*_
+_${usedPrefix}wallpaper *<texto>*_
+_${usedPrefix}wallpaper2 *<texto>*_
+_${usedPrefix}pptiktok *<nombre de usuario>*_
+_${usedPrefix}igstalk *<nombre de usuario>*_
+_${usedPrefix}igstory *<nombre de usuario>*_
+_${usedPrefix}tiktokstalk *<nombre de usuario>*_
 `
 }
 
