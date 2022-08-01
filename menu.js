@@ -108,6 +108,26 @@ _${usedPrefix}pptiktok *<nombre de usuario>*_
 _${usedPrefix}igstalk *<nombre de usuario>*_
 _${usedPrefix}igstory *<nombre de usuario>*_
 _${usedPrefix}tiktokstalk *<nombre de usuario>*_
+
+*GRUPOS*
+
+_${usedPrefix}add *<numero>*_
+_${usedPrefix}kick *<@tag>*_
+_${usedPrefix}grupo *<abrir / cerrar>*_
+_${usedPrefix}promote *<@tag>*_
+_${usedPrefix}demote *<@tag>*_
+_admins *<texto>*_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
+_${usedPrefix}demote *<@tag>*_
+_${usedPrefix}infogroup_
+_${usedPrefix}link_
+_${usedPrefix}setname *<texto>*_
+_${usedPrefix}setdesc *<texto>*_
+_${usedPrefix}invocar *<texto>*_
+_${usedPrefix}setwelcome *<texto>*_
+_${usedPrefix}setbye *<texto>*_
+_${usedPrefix}hidetag *<texto>*_
+
+
 `
 }
 
