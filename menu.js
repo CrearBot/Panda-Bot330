@@ -127,7 +127,135 @@ _${usedPrefix}setwelcome *<texto>*_
 _${usedPrefix}setbye *<texto>*_
 _${usedPrefix}hidetag *<texto>*_
 
+*CONVERTIDORES*
 
+_${usedPrefix}toimg *<responde a un sticker>*_
+_${usedPrefix}tomp3 *<responde a un video / nota de voz>*_
+_${usedPrefix}toptt *<responde a un video / audio>*_
+_${usedPrefix}tovideo *<responde a un sticker>*_
+_${usedPrefix}tourl *<responde a un video / imagen / audio>*_
+_${usedPrefix}tts es *<texto>*_
+
+*EFECTO Y LOGOS*
+
+_${usedPrefix}logos *<efecto> <texto>*_
+_${usedPrefix}logocorazon *<texto>*_
+_${usedPrefix}logochristmas *<texto>*_
+_${usedPrefix}simpcard *<@tag>*_
+_${usedPrefix}hornycard *<@tag>*_
+_${usedPrefix}lolice *<@tag>*_
+_${usedPrefix}ytcomment *<texto>*_
+_${usedPrefix}phmaker *<opcion><responder a imagen>*_
+_${usedPrefix}itssostupid_
+_${usedPrefix}pixelar_
+_${usedPrefix}blur_
+
+*FRACES*
+
+_${usedPrefix}consejo_
+_${usedPrefix}fraseromantica_
+
+*RANDOM*
+
+_${usedPrefix}cristianoronaldo_
+_${usedPrefix}messi_
+_${usedPrefix}meme_
+_${usedPrefix}itzy_
+_${usedPrefix}blackpink_
+_${usedPrefix}kpop *<blackpink / exo / bts>*_
+_${usedPrefix}lolivid_
+_${usedPrefix}loli_
+_${usedPrefix}navidad_
+_${usedPrefix}ppcouple_
+_${usedPrefix}wpmontaña_
+_${usedPrefix}pubg_
+_${usedPrefix}wpgaming_
+_${usedPrefix}wpaesthetic_
+_${usedPrefix}wpaesthetic2_
+_${usedPrefix}wprandom_
+_${usedPrefix}wallhp_
+_${usedPrefix}wpvehiculo_
+_${usedPrefix}wpmoto_
+_${usedPrefix}coffee_
+_${usedPrefix}pentol_
+_${usedPrefix}caricatura_
+_${usedPrefix}ciberespacio_
+_${usedPrefix}technology_
+_${usedPrefix}doraemon_
+_${usedPrefix}hacker_
+_${usedPrefix}planeta_
+_${usedPrefix}randomprofile_
+_${usedPrefix}neko_
+_${usedPrefix}waifu_
+_${usedPrefix}akira_
+_${usedPrefix}akiyama_
+_${usedPrefix}anna_
+_${usedPrefix}asuna_
+_${usedPrefix}ayuzawa_
+_${usedPrefix}boruto_
+_${usedPrefix}chiho_
+_${usedPrefix}chitoge_
+_${usedPrefix}deidara_
+_${usedPrefix}erza_
+_${usedPrefix}elaina_
+_${usedPrefix}eba_
+_${usedPrefix}emilia_
+_${usedPrefix}hestia_
+_${usedPrefix}hinata_
+_${usedPrefix}inori_
+_${usedPrefix}isuzu_
+_${usedPrefix}itachi_
+_${usedPrefix}itori_
+_${usedPrefix}kaga_
+_${usedPrefix}kagura_
+_${usedPrefix}kaori_
+_${usedPrefix}keneki_
+_${usedPrefix}kotori_
+_${usedPrefix}kurumi_
+_${usedPrefix}madara_
+_${usedPrefix}mikasa_
+_${usedPrefix}miku_
+_${usedPrefix}minato_
+_${usedPrefix}naruto_
+_${usedPrefix}nezuko_
+_${usedPrefix}sagiri_
+_${usedPrefix}sasuke_
+_${usedPrefix}sakura_
+_${usedPrefix}cosplay_
+
+*COMANDOS 🔞+18*
+
+_${usedPrefix}pack_
+_${usedPrefix}pack2_
+_${usedPrefix}pack3_
+_${usedPrefix}videoxxx_
+_${usedPrefix}tiktokxxx_
+_${usedPrefix}tetas_
+_${usedPrefix}booty_
+_${usedPrefix}ecchi_
+_${usedPrefix}furro_
+_${usedPrefix}imagenlesbians_
+_${usedPrefix}panties_
+_${usedPrefix}pene_
+_${usedPrefix}porno_
+_${usedPrefix}porno2_
+_${usedPrefix}randomxxx_
+_${usedPrefix}pechos_
+_${usedPrefix}yaoi_
+_${usedPrefix}yaoi2_
+_${usedPrefix}yuri_
+_${usedPrefix}yuri2_
+_${usedPrefix}trapito_
+_${usedPrefix}hentai_
+_${usedPrefix}nsfwloli_
+_${usedPrefix}nsfworgy_
+_${usedPrefix}nsfwfoot_
+_${usedPrefix}nsfwass_
+_${usedPrefix}nsfwbdsm_
+_${usedPrefix}nsfwcum_
+_${usedPrefix}nsfwero_
+_${usedPrefix}nsfwfemdom_
+_${usedPrefix}nsfwglass_
 `
 }
 
