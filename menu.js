@@ -57,8 +57,24 @@ _${usedPrefix}reto_
 _${usedPrefix}cancion_
 _${usedPrefix}pista_
 
+*ACTIVAR O DESACTIVAR
 
-
+_${usedPrefix}enable *welcome*_
+_${usedPrefix}disable *welcome*_
+_${usedPrefix}enable *modohorny*_
+_${usedPrefix}disable *modohorny*_
+_${usedPrefix}enable *antilink*_
+_${usedPrefix}disable *antilink*_
+_${usedPrefix}enable *antilink2*_
+_${usedPrefix}disable *antilink2*_
+_${usedPrefix}enable *detect*_
+_${usedPrefix}disable *detect*_
+_${usedPrefix}enable *audios*_
+_${usedPrefix}disable *audios*_
+_${usedPrefix}enable *autosticker*_
+_${usedPrefix}disable *autosticker*_
+_${usedPrefix}enable *antiviewonce*_
+_${usedPrefix}disable *antiviewonce*_
 
 
 `
