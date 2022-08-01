@@ -256,6 +256,92 @@ _${usedPrefix}nsfwcum_
 _${usedPrefix}nsfwero_
 _${usedPrefix}nsfwfemdom_
 _${usedPrefix}nsfwglass_
+
+*EFECTO DE AUDIOS
+*- 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴 𝙰 𝚄𝙽 𝙰𝚄𝙳𝙸𝙾 𝙾 𝙽𝙾𝚃𝙰 𝙳𝙴 𝚅𝙾𝚉*
+
+_${usedPrefix}bass_
+_${usedPrefix}blown_
+_${usedPrefix}deep_
+_${usedPrefix}earrape_
+_${usedPrefix}fast_
+_${usedPrefix}fat_
+_${usedPrefix}nightcore_
+_${usedPrefix}reverse_
+_${usedPrefix}robot_
+_${usedPrefix}slow_
+_${usedPrefix}smooth_
+_${usedPrefix}tupai_
+
+*CHAT ANONIMO*
+
+_${usedPrefix}start_
+_${usedPrefix}next_
+_${usedPrefix}leave_
+
+*BUSCADORES*
+
+_${usedPrefix}stickersearch *<texto>*_
+_${usedPrefix}xnxxsearch *<texto>*_
+_${usedPrefix}animeinfo *<texto>*_
+_${usedPrefix}google *<texto>*_
+_${usedPrefix}letra *<texto>*_
+_${usedPrefix}wikipedia *<texto>*_
+_${usedPrefix}ytsearch *<texto>*_
+_${usedPrefix}apkdone *<texto>*_
+_${usedPrefix}apkgoogle *<texto>*_
+_${usedPrefix}apkmody *<texto>*_
+_${usedPrefix}apkshub *<texto>*_
+_${usedPrefix}happymod *<texto>*_
+_${usedPrefix}hostapk *<texto>*_
+_${usedPrefix}revdl *<texto>*_
+_${usedPrefix}toraccino *<texto>*_
+_${usedPrefix}uapkpro *<texto>*_
+
+*AUDIOS*
+
+*- 𝙴𝚂𝙲𝚁𝙸𝙱𝙴 𝙻𝙰𝚂 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴𝚂 𝙿𝙰𝙻𝙰𝙱𝚁𝙰𝚂 𝙾 𝙵𝚁𝙰𝚂𝙴𝚂 𝚂𝙸𝙽 𝙽𝙸𝙽𝙶𝚄𝙽 𝙿𝚁𝙴𝙵𝙸𝙹𝙾 (#, /, *, .)* 
+_(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
+
+_Quien es tu sempai botsito 7w7_
+_Te diagnostico con gay_
+_A nadie le importa_
+_Fiesta del admin_
+_Fiesta del administrador_ 
+_Vivan los novios_
+_Feliz cumpleaños_
+_Noche de paz_
+_Buenos dias_
+_Buenos tardes_
+_Buenos noches_
+_Audio hentai_
+_Chica lgante_
+_Feliz navidad_
+_Vete a la vrg_
+_Pasa pack Bot_
+_Atencion grupo_
+_Marica quien_
+_Murio el grupo_
+_Oh me vengo_
+_tio que rico_
+_Viernes_
+_Baneado_
+_Sexo_
+_Hola_
+_Un pato_
+_Nyanpasu_
+_Te amo_
+_Yamete_
+_Bañate_
+_Es puto_
+_La biblia_
+_Onichan_
+_Mierda de Bot_
+_Siuuu_
+_Rawr_
+_UwU_
+_:c_
+_a_
 `
 }
 
