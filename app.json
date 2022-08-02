@@ -1,0 +1,21 @@
+{
+  "name": "Panda-Bot330",
+  "description": "Gracias por usar el bot (≧▽≦)",
+  "repository": "https://github.com/CrearBot/Panda-Bot330",
+  "logo": "https://raw.githubusercontent.com/CrearBot/Panda-Bot330/master/Menu2.jpg",
+  "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
+  "buildpacks": [
+  {
+    "url": "heroku/nodejs"
+  },
+  {
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+  },
+  {
+    "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+  },
+  {
+    "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+  }    
+ ]
+}
